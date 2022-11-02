@@ -2,7 +2,7 @@
 Simple shell script for bookmarking
 
 # Setting up
-* Install dependencies: ranger, notify-send https://vaskovsky.net/notify-send/linux.html.
+* Install dependencies: ranger, notify-send (https://vaskovsky.net/notify-send/linux.html), xdotool, dmenu.
 * Clone the repository and set a hotkey to run mkbookmark.sh (add a bookmark) and lsbookmark.sh (use a bookmark) in your WM.
 * Set BOOKMARKS_ROOT variable to your root bookmarks folder.
 # Usage:
